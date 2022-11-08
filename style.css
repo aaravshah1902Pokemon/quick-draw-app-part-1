@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(230, 234, 114);
+}
+h1{
+    color: darkgreen;
+    background-color: plum;
+}
+#showsketch{
+    float:right
+}
+p{
+    font-size: 20px;
+}
